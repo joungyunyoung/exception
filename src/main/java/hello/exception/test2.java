@@ -4,4 +4,6 @@ public class test2 {
 
     Long id;
     Long ids;
+
+    String testDev;
 }
